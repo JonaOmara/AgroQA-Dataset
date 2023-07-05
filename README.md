@@ -1,2 +1,4 @@
 # AgroQA-Dataset
-Agronomic question answer dataset  
+The Agronomic Question and Answer Dataset for Beans, Maize, and Cassava is a comprehensive and invaluable resource that caters to the information needs of agricultural enthusiasts, researchers, and professionals involved in the cultivation and management of these crucial crops. This rich dataset contains an extensive collection of questions and corresponding answers pertaining to beans, maize, and cassava, offering insights and solutions to a wide range of agronomic challenges faced by farmers worldwide. Covering diverse topics related to cultivation, pest management, soil health, harvesting techniques, and more, this dataset serves as a robust knowledge base, empowering individuals and communities to maximize their agricultural productivity and sustainably address food security.
+
+Publication: https://doi.org/10.3389/frai.2023.1010804
